@@ -1,0 +1,197 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<string name="app_name">Movie Catalogue</string>
+	<string name="change_language_settings">Change Language Settings</string>
+	<!-- TODO: Remove or change this placeholder text -->
+	<string name="name_movies">Catalog Movie</string>
+	<string name="judul_film">Movie</string>
+	<string name="judul_tv">TV Show</string>
+
+	<string-array name="data_name">
+		<item>A Star</item>
+		<item>Aquaman</item>
+		<item>Avenger Infinity War</item>
+		<item>The BirdBox</item>
+		<item>Bohemian</item>
+		<item>Bumblebee</item>
+		<item>The Creed</item>
+		<item>Deadpool</item>
+		<item>Dragon</item>
+		<item>Dragon Ball</item>
+		<item>Venom</item>
+		<item>The Mule</item>
+		<item>Spiderman</item>
+	</string-array>
+	<string-array name="data_description">
+		<item>Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. She has just
+			about given up on her dream to make it big as a singer — until Jack coaxes her into the spotlight. But even
+			as Allys career takes off, the personal side of their relationship is breaking down, as Jack fights an
+			ongoing battle with his own internal demons.
+		</item>
+		<item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the
+			power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people
+			and then the surface world. Standing in his way is Arthur Curry, Orms half-human, half-Atlantean brother and
+			true heir to the throne.
+		</item>
+		<item>During World War II, Steve Rogers is a sickly man from Brooklyn whos transformed into super-soldier
+			Captain America to aid in the war effort. Rogers must stop the Red Skull – Adolf Hitlers ruthless head of
+			weaponry, and the leader of an organization that intends to use a mysterious device of untold powers for
+			world domination.
+		</item>
+		<item>Pony and Birdboy tells a story of seven-year-old girl Pony, who doesn’t want to go to school, and
+			big-mouthed Birdboy who has solution to all possible problems. Humoristic family-film Pony and Birdboy is
+			partly based on Veera Salmi’s popular children’s book The Book of Pony and Birdboy, which rich humor and
+			anarchist hustle have brought the book as a favorite of children.
+		</item>
+		<item>Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the
+			music world by storm when they form the rock n roll band Queen in 1970. Hit songs become instant classics.
+			When Mercurys increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest
+			challenge yet – finding a way to keep the band together amid the success and excess.
+		</item>
+		<item>On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town.
+			Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee,
+			battle-scarred and broken. When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.
+		</item>
+		<item>The former World Heavyweight Champion Rocky Balboa serves as a trainer and mentor to Adonis Johnson, the
+			son of his late friend and former rival Apollo Creed.
+		</item>
+		<item>Deadpool tells the origin story of former Special Forces operative turned mercenary Wade Wilson, who after
+			being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego
+			Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who
+			nearly destroyed his life.
+		</item>
+		<item>For years, old wood carver Mr. Meacham has delighted local children with his tales of the fierce dragon
+			that resides deep in the woods of the Pacific Northwest. To his daughter, Grace, who works as a forest
+			ranger, these stories are little more than tall tales until she meets Pete, a mysterious 10-year-old with no
+			family and no home who claims to live in the woods with a giant, green dragon named Elliott. And from Petes
+			descriptions, Elliott seems remarkably similar to the dragon from Mr. Meachams stories. With the help of
+			Natalie, an 11-year-old girl whose father Jack owns the local lumber mill, Grace sets out to determine where
+			Pete came from, where he belongs, and the truth about this dragon.
+		</item>
+		<item>The young warrior Son Goku sets out on a quest, racing against time and the vengeful King Piccolo, to
+			collect a set of seven magical orbs that will grant their wielder unlimited power.
+		</item>
+		<item>Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the
+			host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to
+			protect the world from a shadowy organization looking for a symbiote of their own.
+		</item>
+		<item>Earl Stone, a man in his 80s, is broke, alone, and facing foreclosure of his business when he is offered a
+			job that simply requires him to drive. Easy enough, but, unbeknownst to Earl, he’s just signed on as a drug
+			courier for a Mexican cartel. He does so well that his cargo increases exponentially, and Earl hit the radar
+			of hardcharging DEA agent Colin Bates.
+		</item>
+		<item>Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest -
+			Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and
+			destruction throughout the continent.
+		</item>
+	</string-array>
+	<array name="data_photo">
+		<item>@drawable/poster_a_star</item>
+		<item>@drawable/poster_aquaman</item>
+		<item>@drawable/poster_avengerinfinity</item>
+		<item>@drawable/poster_birdbox</item>
+		<item>@drawable/poster_bohemian</item>
+		<item>@drawable/poster_bumblebee</item>
+		<item>@drawable/poster_creed</item>
+		<item>@drawable/poster_deadpool</item>
+		<item>@drawable/poster_dragon</item>
+		<item>@drawable/poster_dragonball</item>
+		<item>@drawable/poster_venom</item>
+		<item>@drawable/poster_themule</item>
+		<item>@drawable/poster_spiderman</item>
+	</array>
+	<string-array name="data_tv">
+		<item>The Sopranos</item>
+		<item>Game of Thrones</item>
+		<item>The Wire</item>
+		<item>Dexter</item>
+		<item>Breaking Bad</item>
+		<item>The walking Dead</item>
+		<item>Broadwalk Empire</item>
+		<item>Rome</item>
+		<item>Mad Man</item>
+		<item>Son of Anarchy</item>
+		<item>The west wing</item>
+		<item>Weeds</item>
+		<item>Lost</item>
+	</string-array>
+	<string-array name="data_desctv">
+		<item>New Jersey mob boss Tony Soprano deals with personal and professional issues in his home and business life
+			that affect his mental state, leading him to seek professional psychiatric counseling.
+		</item>
+		<item>Nine noble families fight for control over the mythical lands of Westeros, while an ancient enemy returns
+			after being dormant for thousands of years.
+		</item>
+		<item>The Baltimore drug scene, as seen through the eyes of drug dealers and law enforcement.</item>
+		<item>By day, mild-mannered Dexter is a blood-spatter analyst for the Miami police. But at night, he is a serial
+			killer who only targets other murderers.
+		</item>
+		<item>A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling
+			methamphetamine in order to secure his familys future.
+		</item>
+		<item>Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins, and must lead a group of
+			survivors to stay alive.
+		</item>
+		<item>An Atlantic City politician plays both sides of the law by conspiring with gangsters during the
+			Prohibition era.
+		</item>
+		<item>A down-to-earth account of the lives of both illustrious and ordinary Romans set in the last days of the
+			Roman Republic.
+		</item>
+		<item>A drama about one of New Yorks most prestigious ad agencies at the beginning of the 1960s, focusing on
+			one of the firms most mysterious but extremely talented ad executives, Donald Draper.
+		</item>
+		<item>A biker struggles to balance being a father and being involved in an outlaw motorcycle club.</item>
+		<item>Inside the lives of staffers in the West Wing of the White House.</item>
+		<item>When a suburban mother turns to dealing marijuana in order to maintain her privileged lifestyle after her
+			husband dies, she finds out just how addicted her entire neighborhood already is.
+		</item>
+		<item>The survivors of a plane crash are forced to work together in order to survive on a seemingly deserted
+			tropical island.
+		</item>
+	</string-array>
+	<array name="data_phototv">
+		<item>
+			"https://m.media-amazon.com/images/M/MV5BZGJjYzhjYTYtMDBjYy00OWU1LTg5OTYtNmYwOTZmZjE3ZDdhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY209_CR3,0,140,209_AL_.jpg"
+		</item>
+		<item>
+			"https://m.media-amazon.com/images/M/MV5BMjA5NzA5NjMwNl5BMl5BanBnXkFtZTgwNjg2OTk2NzM@._V1_UY209_CR0,0,140,209_AL_.jpg"
+		</item>
+		<item>
+			"https://m.media-amazon.com/images/M/MV5BNjc1NzYwODEyMV5BMl5BanBnXkFtZTcwNTcxMzU1MQ@@._V1_UY209_CR7,0,140,209_AL_.jpg"
+		</item>
+		<item>
+			"https://m.media-amazon.com/images/M/MV5BMTM5MjkwMTI0MV5BMl5BanBnXkFtZTcwODQwMTc0OQ@@._V1_UY209_CR7,0,140,209_AL_.jpg"
+		</item>
+		<item>
+			"https://m.media-amazon.com/images/M/MV5BMjhiMzgxZTctNDc1Ni00OTIxLTlhMTYtZTA3ZWFkODRkNmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY209_CR5,0,140,209_AL_.jpg"
+		</item>
+		<item>
+			"https://m.media-amazon.com/images/M/MV5BYWY4ODJiZjMtNWMxYi00ZmM5LWIwZmQtZWY0MjJmZGU5MjcxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR0,0,140,209_AL_.jpg"
+		</item>
+		<item>
+			"https://m.media-amazon.com/images/M/MV5BYTYxNzc5ZmYtODcyNi00ZWUwLWExNWUtY2Y0YTlhZDBlMGU1XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_UY209_CR2,0,140,209_AL_.jpg"
+		</item>
+		<item>
+			"https://m.media-amazon.com/images/M/MV5BZTM4NjBkMWEtZDA4My00MzA0LWI0ZWMtNzUwYWVhOThiMTgwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY209_CR9,0,140,209_AL_.jpg"
+		</item>
+		<item>
+			"https://m.media-amazon.com/images/M/MV5BMjMwNzk5Nzg2OV5BMl5BanBnXkFtZTgwMjg1OTk1NDE@._V1_UY209_CR1,0,140,209_AL_.jpg"
+		</item>
+		<item>
+			"https://m.media-amazon.com/images/M/MV5BMTEyODg2NzkwMDBeQTJeQWpwZ15BbWU4MDQwODI3MzIx._V1_UY209_CR0,0,140,209_AL_.jpg"
+		</item>
+		<item>
+			"https://m.media-amazon.com/images/M/MV5BNjk3ZWE3ZDctN2Q1YS00NzNhLWFjNmYtZTkwYWQxZmQ3NzM3XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_UX140_CR0,0,140,209_AL_.jpg"
+		</item>
+		<item>
+			"https://m.media-amazon.com/images/M/MV5BMTY1MTg1MTcxNl5BMl5BanBnXkFtZTcwMTI4ODUzMQ@@._V1_UY209_CR14,0,140,209_AL_.jpg"
+		</item>
+		<item>
+			"https://m.media-amazon.com/images/M/MV5BNzhlY2E5NDUtYjJjYy00ODg3LWFkZWQtYTVmMzU4ZWZmOWJkXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX140_CR0,0,140,209_AL_.jpg"
+		</item>
+	</array>
+
+	<!-- TODO: Remove or change this placeholder text -->
+	<string name="hello_blank_fragment">Hello blank fragment</string>
+	<string name="title_activity_detail">DetailActivity</string>
+</resources>

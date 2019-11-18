@@ -1,0 +1,237 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<string name="app_name">Katalog Film</string>
+	<string name="change_language_settings">Pengaturan Bahasa</string>
+	<!-- TODO: Remove or change this placeholder text -->
+	<string name="name_movies">Katalog Film</string>
+	<string name="judul_film">Film</string>
+	<string name="judul_tv">Pertunjukan TV</string>
+
+	<string-array name="data_name">
+		<item>Satu Bintang</item>
+		<item>Manusia Air</item>
+		<item>Avenger Gak Brenti Perang</item>
+		<item>Kotak Burung</item>
+		<item>Bohemian</item>
+		<item>Taon Bumble</item>
+		<item>Kepercayaan</item>
+		<item>Kolam Mati</item>
+		<item>Naga</item>
+		<item>Naga Bola</item>
+		<item>Venom</item>
+		<item>Begal</item>
+		<item>Lelaki laba-laba</item>
+	</string-array>
+	<string-array name="data_description">
+		<item>Musisi kawakan Jackson Maine menemukan - dan jatuh cinta dengan - artis yang sedang berjuang Ally. Dia
+			baru saja
+			tentang menyerah pada mimpinya untuk menjadi besar sebagai penyanyi - sampai Jack membujuknya menjadi
+			sorotan. Tetapi bahkan
+			Ketika karier Allys lepas landas, sisi pribadi dari hubungan mereka hancur, seperti Jack berkelahi
+			pertempuran yang sedang berlangsung dengan setan internalnya sendiri.
+		</item>
+		<item>Setelah menjadi rumah bagi peradaban paling maju di Bumi, Atlantis sekarang merupakan kerajaan bawah laut
+			yang diperintah oleh
+			Raja Orm yang haus kekuasaan. Dengan pasukan yang sangat besar, Orm berencana untuk menaklukkan orang-orang
+			samudera yang tersisa
+			dan kemudian dunia permukaan. Berdiri di hadapannya adalah Arthur Curry, Orms setengah manusia, setengah
+			saudara Atlantis dan
+			pewaris sejati takhta.
+		</item>
+		<item>Selama Perang Dunia II, Steve Rogers adalah lelaki sakit-sakitan dari Brooklyn yang berubah menjadi
+			tentara super
+			Kapten Amerika untuk membantu upaya perang. Rogers harus menghentikan Tengkorak Merah - kepala Adolf Hitlers
+			yang kejam
+			persenjataan, dan pemimpin sebuah organisasi yang berniat untuk menggunakan perangkat misterius kekuatan tak
+			terhitung untuk
+			dominasi dunia.
+		</item>
+		<item>Pony dan Birdboy bercerita tentang gadis tujuh tahun Pony, yang tidak ingin pergi ke sekolah, dan
+			Birdboy bermulut besar yang memiliki solusi untuk semua masalah yang mungkin terjadi. Film keluarga
+			Humoristic Pony and Birdboy is
+			sebagian berdasarkan buku anak-anak Veera Salmi yang populer, The Book of Pony and Birdboy, yang kaya akan
+			humor dan
+			kesibukan anarkis menjadikan buku itu sebagai favorit anak-anak.
+		</item>
+		<item>Penyanyi Freddie Mercury, gitaris Brian May, drummer Roger Taylor dan gitaris John Deacon mengambil
+			dunia musik oleh badai ketika mereka membentuk band rock n roll Queen pada tahun 1970. Lagu-lagu hit menjadi
+			klasik instan.
+			Ketika gaya hidup Mercurys yang semakin liar mulai lepas kendali, Queen segera menghadapi yang terbaik
+			Tantangan belum - menemukan cara untuk menjaga band bersama di tengah kesuksesan dan kelebihan.
+		</item>
+		<item>Dalam pelarian pada tahun 1987, Bumblebee menemukan perlindungan di tempat barang rongsokan di kota pantai
+			kecil California.
+			Charlie, di puncak usia 18 dan mencoba menemukan tempatnya di dunia, menemukan Bumblebee,
+			pertempuran-bekas luka dan rusak. Ketika Charlie menghidupkannya, dia dengan cepat mengetahui bahwa ini
+			bukan bug VW kuning biasa.
+		</item>
+		<item>Mantan Juara Dunia Kelas Berat Rocky Balboa menjadi pelatih dan mentor bagi Adonis Johnson, sang
+			putra dari teman almarhum dan mantan saingannya Apollo Creed.
+		</item>
+		<item>Deadpool menceritakan kisah asal usul mantan anggota Pasukan Khusus yang menjadi tentara bayaran Wade
+			Wilson, yang setelahnya
+			menjadi sasaran percobaan jahat yang membuatnya memiliki kekuatan penyembuhan yang dipercepat, mengadopsi
+			alter ego
+			Kolam kematian. Dipersenjatai dengan kemampuan barunya dan selera humornya yang gelap dan memutar, Deadpool
+			memburu pria yang
+			hampir menghancurkan hidupnya.
+		</item>
+		<item>Selama bertahun-tahun, pemahat kayu tua, Tuan Meacham, telah menyenangkan anak-anak setempat dengan
+			kisahnya tentang naga ganas
+			yang berada jauh di dalam hutan di Pasifik Barat Laut. Kepada putrinya, Grace, yang bekerja sebagai hutan
+			ranger, cerita-cerita ini sedikit lebih dari sekadar dongeng sampai dia bertemu Pete, seorang bocah
+			misterius berusia 10 tahun tanpa
+			keluarga dan tidak ada rumah yang mengaku tinggal di hutan dengan naga hijau raksasa bernama Elliott. Dan
+			dari Petes
+			deskripsi, Elliott tampaknya sangat mirip dengan naga dari cerita Pak Meachams. Dengan bantuan dari
+			Natalie, seorang gadis berusia 11 tahun yang ayahnya Jack memiliki pabrik kayu setempat, Grace memutuskan
+			untuk menentukan di mana
+			Pete datang, dari tempat asalnya, dan kebenaran tentang naga ini.
+		</item>
+		<item>Prajurit muda Son Goku berangkat pada sebuah pencarian, berpacu dengan waktu dan Raja Piccolo yang
+			pendendam, untuk
+			mengumpulkan satu set tujuh bola ajaib yang akan memberikan kekuatan tak terbatas pengguna mereka.
+		</item>
+		<item>Wartawan investigasi Eddie Brock mencoba kembali setelah skandal, tetapi tidak sengaja menjadi
+			Tuan rumah Venom, seorang simbiot alien yang sangat kuat dan sakti. Segera, ia harus bergantung pada
+			kekuatan yang baru ditemukannya
+			melindungi dunia dari organisasi bayangan mencari simbiosis mereka sendiri.
+		</item>
+		<item>Earl Stone, seorang pria berusia 80-an, bangkrut, sendirian, dan menghadapi penyitaan bisnisnya ketika ia
+			ditawari
+			pekerjaan yang hanya mengharuskannya mengemudi. Cukup mudah, tetapi, tanpa diketahui Earl, dia baru saja
+			masuk sebagai obat
+			kurir untuk kartel Meksiko. Dia melakukannya dengan baik sehingga muatannya meningkat secara eksponensial,
+			dan Earl menghantam radar
+			agen DEA yang sulit diisi Colin Bates.
+		</item>
+		<item>Peter Parker dan teman-temannya melakukan perjalanan musim panas ke Eropa. Namun, mereka tidak akan bisa
+			beristirahat -
+			Peter harus setuju untuk membantu Nick Fury mengungkap misteri makhluk yang menyebabkan bencana alam dan
+			kehancuran di seluruh benua.
+		</item>
+	</string-array>
+	<array name="data_photo">
+		<item>@drawable/poster_a_star</item>
+		<item>@drawable/poster_aquaman</item>
+		<item>@drawable/poster_avengerinfinity</item>
+		<item>@drawable/poster_birdbox</item>
+		<item>@drawable/poster_bohemian</item>
+		<item>@drawable/poster_bumblebee</item>
+		<item>@drawable/poster_creed</item>
+		<item>@drawable/poster_deadpool</item>
+		<item>@drawable/poster_dragon</item>
+		<item>@drawable/poster_dragonball</item>
+		<item>@drawable/poster_venom</item>
+		<item>@drawable/poster_themule</item>
+		<item>@drawable/poster_spiderman</item>
+	</array>
+	<string-array name="data_tv">
+		<item>Sopranos Itu</item>
+		<item>Game dari Thrones</item>
+		<item>Kawat</item>
+		<item>Dexter</item>
+		<item>Sangat Buruk</item>
+		<item>Orang Mati yang berjalan</item>
+		<item>Broadwalk Empire</item>
+		<item>Roma</item>
+		<item>Orang Gila</item>
+		<item>Son of Anarchy</item>
+		<item>Sayap barat</item>
+		<item>Menyiangi</item>
+		<item>Hilang</item>
+	</string-array>
+	<string-array name="data_desctv">
+		<item>Bos massa New Jersey Tony Soprano menangani masalah-masalah pribadi dan profesional di rumah dan kehidupan
+			bisnisnya yang memengaruhi kondisi mentalnya, membawanya untuk mencari konseling psikiatris profesional.
+		</item>
+		        
+		<item>Sembilan keluarga bangsawan memperebutkan kontrol atas tanah mitos Westeros, sementara musuh kuno kembali
+			setelah tidak aktif selama ribuan tahun.
+		</item>
+		        
+		<item>Adegan narkoba Baltimore, seperti yang terlihat melalui mata pengedar narkoba dan penegakan hukum.</item>
+		        
+		<item>Pada siang hari, Dexter yang santun adalah seorang analis percikan darah untuk polisi Miami. Tetapi pada
+			malam hari, ia adalah pembunuh berantai yang hanya menargetkan pembunuh lainnya.
+		</item>
+		        
+		<item>Seorang guru kimia sekolah menengah yang didiagnosis menderita kanker paru-paru yang tidak dapat dioperasi
+			beralih ke memproduksi dan menjual metamfetamin untuk mengamankan masa depan keluarganya.
+		</item>
+		        
+		<item>Wakil Sheriff Rick Grimes bangun dari koma untuk mengetahui bahwa dunia ini hancur, dan harus memimpin
+			sekelompok orang yang selamat untuk tetap hidup.
+		</item>
+		        
+		<item>Seorang politisi Atlantic City memainkan kedua sisi hukum dengan berkonspirasi dengan gangster selama era
+			Larangan.
+		</item>
+		        
+		<item>Sebuah kisah sederhana tentang kehidupan orang-orang Romawi yang termasyhur dan biasa yang terjadi pada
+			hari-hari terakhir Republik Romawi.
+		</item>
+		        
+		<item>Drama tentang salah satu biro iklan paling bergengsi di New York pada awal 1960-an, berfokus pada salah
+			satu eksekutif iklan paling misterius namun sangat berbakat, Donald Draper.
+		</item>
+		        
+		<item>Seorang pengendara sepeda motor berusaha menyeimbangkan menjadi seorang ayah dan terlibat dalam klub motor
+			yang melanggar hukum.
+		</item>
+		        
+		<item>Di dalam kehidupan para staf di Sayap Barat Gedung Putih.</item>
+		        
+		<item>Ketika seorang ibu di pinggiran kota beralih menangani ganja untuk mempertahankan gaya hidupnya yang
+			istimewa setelah suaminya meninggal, dia mengetahui seberapa kecanduan seluruh lingkungannya.
+		</item>
+		        
+		<item>Yang selamat dari kecelakaan pesawat dipaksa bekerja bersama untuk bertahan hidup di pulau tropis yang
+			tampaknya sepi.
+		</item>
+	</string-array>
+	<array name="data_phototv">
+		<item>
+			"https://m.media-amazon.com/images/M/MV5BZGJjYzhjYTYtMDBjYy00OWU1LTg5OTYtNmYwOTZmZjE3ZDdhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY209_CR3,0,140,209_AL_.jpg"
+		</item>
+		<item>
+			"https://m.media-amazon.com/images/M/MV5BMjA5NzA5NjMwNl5BMl5BanBnXkFtZTgwNjg2OTk2NzM@._V1_UY209_CR0,0,140,209_AL_.jpg"
+		</item>
+		<item>
+			"https://m.media-amazon.com/images/M/MV5BNjc1NzYwODEyMV5BMl5BanBnXkFtZTcwNTcxMzU1MQ@@._V1_UY209_CR7,0,140,209_AL_.jpg"
+		</item>
+		<item>
+			"https://m.media-amazon.com/images/M/MV5BMTM5MjkwMTI0MV5BMl5BanBnXkFtZTcwODQwMTc0OQ@@._V1_UY209_CR7,0,140,209_AL_.jpg"
+		</item>
+		<item>
+			"https://m.media-amazon.com/images/M/MV5BMjhiMzgxZTctNDc1Ni00OTIxLTlhMTYtZTA3ZWFkODRkNmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY209_CR5,0,140,209_AL_.jpg"
+		</item>
+		<item>
+			"https://m.media-amazon.com/images/M/MV5BYWY4ODJiZjMtNWMxYi00ZmM5LWIwZmQtZWY0MjJmZGU5MjcxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR0,0,140,209_AL_.jpg"
+		</item>
+		<item>
+			"https://m.media-amazon.com/images/M/MV5BYTYxNzc5ZmYtODcyNi00ZWUwLWExNWUtY2Y0YTlhZDBlMGU1XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_UY209_CR2,0,140,209_AL_.jpg"
+		</item>
+		<item>
+			"https://m.media-amazon.com/images/M/MV5BZTM4NjBkMWEtZDA4My00MzA0LWI0ZWMtNzUwYWVhOThiMTgwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY209_CR9,0,140,209_AL_.jpg"
+		</item>
+		<item>
+			"https://m.media-amazon.com/images/M/MV5BMjMwNzk5Nzg2OV5BMl5BanBnXkFtZTgwMjg1OTk1NDE@._V1_UY209_CR1,0,140,209_AL_.jpg"
+		</item>
+		<item>
+			"https://m.media-amazon.com/images/M/MV5BMTEyODg2NzkwMDBeQTJeQWpwZ15BbWU4MDQwODI3MzIx._V1_UY209_CR0,0,140,209_AL_.jpg"
+		</item>
+		<item>
+			"https://m.media-amazon.com/images/M/MV5BNjk3ZWE3ZDctN2Q1YS00NzNhLWFjNmYtZTkwYWQxZmQ3NzM3XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_UX140_CR0,0,140,209_AL_.jpg"
+		</item>
+		<item>
+			"https://m.media-amazon.com/images/M/MV5BMTY1MTg1MTcxNl5BMl5BanBnXkFtZTcwMTI4ODUzMQ@@._V1_UY209_CR14,0,140,209_AL_.jpg"
+		</item>
+		<item>
+			"https://m.media-amazon.com/images/M/MV5BNzhlY2E5NDUtYjJjYy00ODg3LWFkZWQtYTVmMzU4ZWZmOWJkXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX140_CR0,0,140,209_AL_.jpg"
+		</item>
+	</array>
+
+	<!-- TODO: Remove or change this placeholder text -->
+	<string name="hello_blank_fragment">Hello blank fragment</string>
+	<string name="title_activity_detail">DetailActivity</string>
+</resources>
